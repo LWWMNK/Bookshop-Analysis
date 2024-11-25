@@ -1,0 +1,201 @@
+Supplier ID,Supplier Name,Bible Category,Delivery Lead Time (days),Import Costs ($)
+SUP002,Holy Books Supply,Youth Bible,10,1443.72
+SUP002,Gospel Distributors,Study Bible,13,1055.44
+SUP001,Christian Books Co.,Youth Bible,11,839.23
+SUP002,Holy Books Supply,Pocket Bible,11,1809.25
+SUP004,Gospel Distributors,Children Bible,12,1721.85
+SUP005,Faith Publishers,Pocket Bible,11,850.88
+SUP003,Christian Books Co.,Children Bible,16,800.95
+SUP002,Holy Books Supply,Children Bible,13,1572.71
+SUP002,Faith Publishers,Children Bible,15,972.43
+SUP003,Christian Books Co.,Youth Bible,13,959.6
+SUP002,Religious Texts Ltd.,Study Bible,10,728.44
+SUP003,Faith Publishers,Youth Bible,11,895.96
+SUP001,Gospel Distributors,Study Bible,6,1141.26
+SUP004,Holy Books Supply,Pocket Bible,19,1599.26
+SUP004,Christian Books Co.,Family Bible,13,1004.46
+SUP005,Faith Publishers,Pocket Bible,16,992.91
+SUP002,Religious Texts Ltd.,Youth Bible,17,927.37
+SUP005,Holy Books Supply,Youth Bible,5,1217.43
+SUP001,Holy Books Supply,Study Bible,5,770.96
+SUP004,Faith Publishers,Youth Bible,7,1228.45
+SUP001,Religious Texts Ltd.,Children Bible,16,1556.26
+SUP001,Christian Books Co.,Youth Bible,10,544.69
+SUP002,Faith Publishers,Study Bible,9,514.67
+SUP001,Christian Books Co.,Study Bible,19,612.68
+SUP004,Holy Books Supply,Children Bible,6,1303.49
+SUP005,Christian Books Co.,Study Bible,13,1781.68
+SUP004,Religious Texts Ltd.,Family Bible,18,507.33
+SUP002,Gospel Distributors,Pocket Bible,17,1904.99
+SUP004,Religious Texts Ltd.,Youth Bible,14,659.42
+SUP003,Christian Books Co.,Family Bible,18,1762.98
+SUP005,Faith Publishers,Youth Bible,8,1224.28
+SUP003,Holy Books Supply,Family Bible,8,1489.04
+SUP003,Gospel Distributors,Youth Bible,9,1266.02
+SUP002,Faith Publishers,Children Bible,19,1215.57
+SUP001,Faith Publishers,Study Bible,12,1752.35
+SUP003,Religious Texts Ltd.,Study Bible,14,1633.83
+SUP004,Christian Books Co.,Children Bible,8,1225.1
+SUP001,Religious Texts Ltd.,Family Bible,9,667.45
+SUP004,Christian Books Co.,Pocket Bible,16,673.1
+SUP004,Religious Texts Ltd.,Family Bible,8,1702.31
+SUP001,Faith Publishers,Study Bible,18,1294.09
+SUP001,Holy Books Supply,Pocket Bible,10,1222.38
+SUP004,Christian Books Co.,Youth Bible,16,1520.85
+SUP002,Gospel Distributors,Pocket Bible,7,1788.26
+SUP005,Gospel Distributors,Family Bible,12,1443.31
+SUP005,Faith Publishers,Children Bible,10,1644.27
+SUP002,Religious Texts Ltd.,Youth Bible,14,1647.91
+SUP001,Religious Texts Ltd.,Family Bible,9,1034.39
+SUP004,Faith Publishers,Youth Bible,17,911.12
+SUP005,Gospel Distributors,Pocket Bible,19,1701.75
+SUP004,Gospel Distributors,Study Bible,6,1065.77
+SUP002,Religious Texts Ltd.,Family Bible,14,1855.0
+SUP004,Christian Books Co.,Children Bible,14,604.54
+SUP002,Holy Books Supply,Pocket Bible,11,587.33
+SUP001,Christian Books Co.,Family Bible,6,1890.51
+SUP002,Gospel Distributors,Children Bible,5,1472.68
+SUP002,Christian Books Co.,Family Bible,11,1069.4
+SUP005,Holy Books Supply,Pocket Bible,9,1632.59
+SUP004,Christian Books Co.,Family Bible,5,1508.49
+SUP005,Christian Books Co.,Youth Bible,19,1296.8
+SUP003,Christian Books Co.,Pocket Bible,8,648.31
+SUP002,Christian Books Co.,Family Bible,16,1718.27
+SUP003,Faith Publishers,Study Bible,17,1799.03
+SUP005,Gospel Distributors,Family Bible,8,758.25
+SUP004,Holy Books Supply,Youth Bible,14,1775.77
+SUP005,Gospel Distributors,Children Bible,11,1816.77
+SUP004,Faith Publishers,Children Bible,13,1324.14
+SUP004,Faith Publishers,Children Bible,6,1484.27
+SUP001,Faith Publishers,Study Bible,16,1073.36
+SUP002,Faith Publishers,Youth Bible,18,922.69
+SUP005,Christian Books Co.,Pocket Bible,5,1582.97
+SUP004,Gospel Distributors,Children Bible,6,1792.81
+SUP005,Religious Texts Ltd.,Youth Bible,11,1481.12
+SUP005,Holy Books Supply,Family Bible,17,1267.39
+SUP004,Faith Publishers,Study Bible,14,738.39
+SUP003,Gospel Distributors,Youth Bible,10,580.19
+SUP002,Faith Publishers,Youth Bible,8,1168.54
+SUP002,Faith Publishers,Pocket Bible,5,574.02
+SUP001,Faith Publishers,Youth Bible,17,1354.0
+SUP001,Faith Publishers,Pocket Bible,5,1074.09
+SUP001,Faith Publishers,Study Bible,9,1635.78
+SUP002,Holy Books Supply,Study Bible,19,958.47
+SUP003,Gospel Distributors,Family Bible,5,1389.47
+SUP002,Faith Publishers,Pocket Bible,16,1306.53
+SUP002,Faith Publishers,Pocket Bible,19,507.07
+SUP002,Faith Publishers,Children Bible,11,608.58
+SUP002,Faith Publishers,Children Bible,17,935.55
+SUP003,Christian Books Co.,Family Bible,15,1823.35
+SUP001,Christian Books Co.,Study Bible,5,720.52
+SUP005,Religious Texts Ltd.,Children Bible,5,1566.34
+SUP001,Faith Publishers,Youth Bible,6,1960.05
+SUP001,Religious Texts Ltd.,Study Bible,17,1685.85
+SUP005,Holy Books Supply,Youth Bible,18,864.42
+SUP002,Religious Texts Ltd.,Pocket Bible,15,1862.55
+SUP003,Gospel Distributors,Study Bible,16,639.66
+SUP003,Christian Books Co.,Family Bible,14,1202.21
+SUP001,Christian Books Co.,Pocket Bible,7,1831.31
+SUP005,Faith Publishers,Pocket Bible,17,1461.9
+SUP004,Faith Publishers,Youth Bible,15,1120.47
+SUP002,Holy Books Supply,Pocket Bible,19,939.22
+SUP001,Holy Books Supply,Children Bible,5,1062.65
+SUP003,Gospel Distributors,Study Bible,19,1263.41
+SUP005,Faith Publishers,Children Bible,13,978.57
+SUP005,Faith Publishers,Youth Bible,14,1953.45
+SUP001,Holy Books Supply,Youth Bible,12,1899.62
+SUP004,Holy Books Supply,Study Bible,9,1806.01
+SUP003,Holy Books Supply,Pocket Bible,17,1132.74
+SUP001,Christian Books Co.,Family Bible,15,1536.95
+SUP004,Religious Texts Ltd.,Youth Bible,6,1854.24
+SUP005,Religious Texts Ltd.,Study Bible,9,1775.64
+SUP002,Faith Publishers,Family Bible,10,1121.49
+SUP003,Christian Books Co.,Pocket Bible,18,668.58
+SUP003,Holy Books Supply,Youth Bible,19,613.45
+SUP004,Faith Publishers,Study Bible,5,1365.6
+SUP001,Christian Books Co.,Study Bible,15,1463.94
+SUP005,Gospel Distributors,Study Bible,8,1774.76
+SUP004,Christian Books Co.,Youth Bible,13,938.77
+SUP002,Faith Publishers,Family Bible,6,751.21
+SUP002,Religious Texts Ltd.,Study Bible,9,1068.51
+SUP002,Holy Books Supply,Pocket Bible,5,1030.36
+SUP004,Gospel Distributors,Study Bible,8,698.7
+SUP005,Christian Books Co.,Family Bible,8,1508.42
+SUP003,Faith Publishers,Youth Bible,10,1263.04
+SUP001,Faith Publishers,Study Bible,14,1581.68
+SUP003,Holy Books Supply,Study Bible,13,1029.04
+SUP005,Faith Publishers,Pocket Bible,7,988.55
+SUP003,Faith Publishers,Pocket Bible,13,1208.86
+SUP004,Holy Books Supply,Study Bible,10,1816.11
+SUP002,Gospel Distributors,Study Bible,11,560.42
+SUP005,Religious Texts Ltd.,Pocket Bible,16,1707.25
+SUP005,Religious Texts Ltd.,Family Bible,14,1053.48
+SUP003,Christian Books Co.,Children Bible,6,1781.93
+SUP004,Gospel Distributors,Children Bible,15,1703.3
+SUP003,Christian Books Co.,Study Bible,14,1023.14
+SUP003,Religious Texts Ltd.,Pocket Bible,18,1540.81
+SUP005,Holy Books Supply,Youth Bible,10,739.45
+SUP003,Faith Publishers,Youth Bible,10,1844.42
+SUP002,Religious Texts Ltd.,Children Bible,6,1106.74
+SUP003,Gospel Distributors,Family Bible,6,1183.44
+SUP002,Religious Texts Ltd.,Children Bible,18,1558.64
+SUP005,Gospel Distributors,Study Bible,6,1731.26
+SUP004,Gospel Distributors,Family Bible,14,854.51
+SUP002,Gospel Distributors,Youth Bible,16,1492.03
+SUP004,Christian Books Co.,Pocket Bible,5,1088.0
+SUP004,Holy Books Supply,Pocket Bible,9,1053.05
+SUP002,Religious Texts Ltd.,Study Bible,12,1535.04
+SUP005,Holy Books Supply,Children Bible,6,1080.77
+SUP001,Faith Publishers,Study Bible,17,1019.16
+SUP004,Religious Texts Ltd.,Pocket Bible,19,1753.83
+SUP004,Holy Books Supply,Youth Bible,9,651.91
+SUP005,Holy Books Supply,Pocket Bible,16,1513.84
+SUP005,Faith Publishers,Family Bible,12,873.09
+SUP003,Gospel Distributors,Pocket Bible,14,523.25
+SUP005,Religious Texts Ltd.,Pocket Bible,18,750.15
+SUP004,Religious Texts Ltd.,Family Bible,9,1409.99
+SUP002,Faith Publishers,Children Bible,6,1563.69
+SUP001,Gospel Distributors,Pocket Bible,7,531.59
+SUP003,Religious Texts Ltd.,Study Bible,19,554.64
+SUP002,Religious Texts Ltd.,Pocket Bible,10,1853.81
+SUP001,Religious Texts Ltd.,Study Bible,15,609.96
+SUP001,Gospel Distributors,Family Bible,15,1841.27
+SUP001,Faith Publishers,Pocket Bible,9,842.25
+SUP002,Religious Texts Ltd.,Family Bible,15,1610.03
+SUP003,Holy Books Supply,Family Bible,8,964.6
+SUP003,Gospel Distributors,Children Bible,8,1788.13
+SUP001,Christian Books Co.,Pocket Bible,9,1550.68
+SUP002,Faith Publishers,Study Bible,6,1102.72
+SUP001,Holy Books Supply,Study Bible,13,614.45
+SUP005,Religious Texts Ltd.,Pocket Bible,6,1599.05
+SUP003,Christian Books Co.,Children Bible,14,1425.33
+SUP004,Faith Publishers,Children Bible,6,504.37
+SUP001,Gospel Distributors,Children Bible,14,514.13
+SUP005,Christian Books Co.,Study Bible,18,1713.19
+SUP003,Christian Books Co.,Family Bible,13,889.1
+SUP002,Holy Books Supply,Children Bible,18,1454.2
+SUP003,Faith Publishers,Study Bible,7,1181.32
+SUP002,Holy Books Supply,Study Bible,19,1795.15
+SUP002,Holy Books Supply,Family Bible,14,1875.44
+SUP001,Religious Texts Ltd.,Pocket Bible,11,1995.21
+SUP001,Gospel Distributors,Pocket Bible,8,730.53
+SUP003,Christian Books Co.,Children Bible,17,1794.45
+SUP005,Faith Publishers,Children Bible,17,899.03
+SUP003,Gospel Distributors,Family Bible,10,1386.22
+SUP004,Gospel Distributors,Children Bible,18,1258.66
+SUP002,Faith Publishers,Family Bible,8,526.98
+SUP002,Gospel Distributors,Study Bible,14,1899.16
+SUP001,Religious Texts Ltd.,Children Bible,19,617.49
+SUP005,Gospel Distributors,Study Bible,11,1532.33
+SUP001,Religious Texts Ltd.,Youth Bible,5,1677.51
+SUP004,Christian Books Co.,Family Bible,7,1692.93
+SUP003,Christian Books Co.,Youth Bible,17,703.24
+SUP003,Holy Books Supply,Children Bible,7,1171.35
+SUP005,Religious Texts Ltd.,Study Bible,5,1744.14
+SUP001,Christian Books Co.,Children Bible,10,954.02
+SUP001,Gospel Distributors,Youth Bible,19,1201.62
+SUP004,Faith Publishers,Children Bible,17,909.19
+SUP003,Faith Publishers,Pocket Bible,15,1195.33
+SUP001,Religious Texts Ltd.,Youth Bible,18,1831.76
+SUP005,Holy Books Supply,Children Bible,13,1182.69
+SUP003,Gospel Distributors,Study Bible,12,1333.87
