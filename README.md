@@ -404,8 +404,6 @@ Interact with charts and KPIs for actionable insights.
 ## Feedback and Future Work:
 Feedback from Keswick Books highlighted the project's clarity and usefulness in enabling data-driven decisions. Future iterations may include real-time analytics integration, cloud solutions for inventory, and advanced predictive models for customer behavior.
 
-## License:
-This project is licensed under the MIT License. See LICENSE for details.
 
 ## Contact:
 For questions or support, please contact [michellekanuri@gmail.com].
